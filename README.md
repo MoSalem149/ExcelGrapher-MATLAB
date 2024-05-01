@@ -9,7 +9,7 @@ ExcelGrapher-MATLAB is a MATLAB App Designer project that allows users to load d
 - Toggle visibility of X and Y grid lines.
 - Add custom labels to X and Y axes.
 - Save generated graphs to various file formats (e.g., PNG, JPEG, PDF).
-- **Deploy graphs to web applications or integrate within MATLAB-based automation workflows.** (Optional: Describe how this deployment works and what additional tools or packages might be needed.)
+- **Deploy graphs to web applications or integrate within MATLAB-based automation workflows.** 
 
 ## Requirements:
 - MATLAB R2016a or later.
