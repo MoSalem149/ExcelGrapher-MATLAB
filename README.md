@@ -9,21 +9,26 @@ ExcelGrapher-MATLAB is a MATLAB App Designer project that allows users to load d
 - Toggle visibility of X and Y grid lines.
 - Add custom labels to X and Y axes.
 - Save generated graphs to various file formats (e.g., PNG, JPEG, PDF).
+- **Deploy graphs to web applications or integrate within MATLAB-based automation workflows.** (Optional: Describe how this deployment works and what additional tools or packages might be needed.)
 
 ## Requirements:
 - MATLAB R2016a or later.
 - MATLAB App Designer.
 
+## Getting Started:
+1. Clone or download the repository from [GitHub](https://github.com/MoSalem149/ExcelGrapher-MATLAB).
+2. Open MATLAB and navigate to the downloaded folder.
+3. Double-click on `ExcelGrapherApp.mlapp` to open it in the MATLAB App Designer.
+4. Press the 'Run' button to start the application.
+
 ## Usage:
-1. Clone or download the repository.
-2. Open `ExcelGrapherApp.mlapp` in MATLAB.
-3. Run the app from the MATLAB App Designer environment.
-4. Load your Excel data, customize the graph as desired, and save the resulting graph.
+1. Run the app from the MATLAB App Designer environment.
+2. Load your Excel data, customize the graph as desired, and save or deploy the resulting graph.
 
 ## Contributing:
-Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or create a pull request.
+Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or create a pull request on our [GitHub repository](https://github.com/MoSalem149/ExcelGrapher-MATLAB).
 
-## Demo Image:
+## Demo Images:
 ![ExcelGrapher](https://github.com/MoSalem149/ExcelGrapher-MATLAB/assets/108944781/fbc0a3d1-84bd-4f31-9f0d-8e7f27406697)
 ![LineGraph](https://github.com/MoSalem149/ExcelGrapher-MATLAB/assets/108944781/88af05c3-4fca-46ab-b168-cd1ddf2af37f)
 
