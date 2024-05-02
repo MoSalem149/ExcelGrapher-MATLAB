@@ -29,8 +29,8 @@ ExcelGrapher-MATLAB is a MATLAB App Designer project that allows users to load d
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or create a pull request on our [GitHub repository](https://github.com/MoSalem149/ExcelGrapher-MATLAB).
 
 ## Demo Images:
-![ExcelGrapher](https://github.com/MoSalem149/ExcelGrapher-MATLAB/assets/108944781/fbc0a3d1-84bd-4f31-9f0d-8e7f27406697)
-![LineGraph](https://github.com/MoSalem149/ExcelGrapher-MATLAB/assets/108944781/88af05c3-4fca-46ab-b168-cd1ddf2af37f)
+![Excel_Grapher_App](https://github.com/MoSalem149/ExcelGrapher-MATLAB/assets/108944781/ac83edd1-6156-4f30-8405-e70ebc7b50f3)
+![Example_Graph](https://github.com/MoSalem149/ExcelGrapher-MATLAB/assets/108944781/018dfe6f-6603-4fa4-b68f-fbeeb2b80311)
 
 ## License:
 This project is licensed under the [MU License](LICENSE).
