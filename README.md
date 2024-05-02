@@ -18,7 +18,7 @@ ExcelGrapher-MATLAB is a MATLAB App Designer project that allows users to load d
 ## Getting Started:
 1. Clone or download the repository from [GitHub](https://github.com/MoSalem149/ExcelGrapher-MATLAB).
 2. Open MATLAB and navigate to the downloaded folder.
-3. Double-click on `ExcelGrapherApp.mlapp` to open it in the MATLAB App Designer.
+3. Double-click on `Excel_Grapher_App.mlapp` to open it in the MATLAB App Designer.
 4. Press the 'Run' button to start the application.
 
 ## Usage:
